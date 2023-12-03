@@ -60,3 +60,9 @@ If you critically think about a problem, understanding will follow.
 ## Don't LIMIT yourself
 
 When studying, it's easy to fall into bad habits or stick to a specific method and not try others. Try other methods, and even if you don't like them initially, they might grow on you. However it's important to note that many other parts play into your study effectiveness, other than technique, like mindset.
+
+## Sources
+
+- [The Ultimate Mind Map Tutorial (How To Take Notes) - YouTube](https://www.youtube.com/watch?v=g7j_CoKD1Xs)
+- [How to use Anki like a PRO (by a Learning Expert) - YouTube](https://www.youtube.com/watch?v=eauQac_23R0)
+	- This video is quite long, I won't say much but google "Justin Sung review reddit". The channel is good, but shady...
