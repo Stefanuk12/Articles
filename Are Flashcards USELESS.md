@@ -41,7 +41,7 @@ So, how can you invoke higher-level thinking? When people think about revision t
 
 Mind maps are a very effective tool and should be used as often as possible. As the common adage goes: "a picture paints a thousand words". A paragraph of text, can easily be summarised in a picture. The important part is that the mind maps are **yours**, do what you feel would help you memorise easier.
 
-However, there is a **WRONG** way to make mind maps: cramming too much information.
+However, there is a **WRONG** way to make mind maps: cramming too much information, **in terms of text**.
 
 When you look at a student's mind map, you might find that it's more of a wall of text, rather than a visual mind map. If the point of a mind map is to visually show information, why do we have so much text?
 
